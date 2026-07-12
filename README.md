@@ -7,6 +7,8 @@ This project is a Fake News Detection System built using Machine Learning and Na
 The web application is developed using **Flask**, while the machine learning model is trained using **Logistic Regression** and **TF-IDF Vectorization**.
 
 ---
+## 🌐 Live Demo
+https://fake-news-detection-ml-4z5s.onrender.com
 
 ## 🚀 Features
 
